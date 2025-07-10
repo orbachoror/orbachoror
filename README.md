@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-with-text.svg" alt="Or Orbach" width="100%"/>
+  <img src="assets/Untitled.svg" alt="Or Orbach" width="100%"/>
 </p>
 
 
