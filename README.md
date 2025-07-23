@@ -7,7 +7,7 @@
 
 ## 📚 About me
 
-- 🎓 BSc in Computer Science – Full-Stack internship.  
+- 🎓 BSc in Computer Science.  
 - 🤖 Experienced in building full-stack apps and exploring AI agents & Model Control Protocols (MCP).  
 - 🚀 Fast learner and team player.
 
